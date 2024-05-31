@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929712640293",
+    "firebase_url": "https://flocker-vibes-default-rtdb.firebaseio.com",
+    "project_id": "flocker-vibes",
+    "storage_bucket": "flocker-vibes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929712640293:android:e6f440cd15ae28a74b4acc",
+        "android_client_info": {
+          "package_name": "com.example.vibes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929712640293-kdjugj3v1r79uieav6o30c1td6m8hce3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vibes",
+            "certificate_hash": "645655df2a9a59681d2ca2c352786f3065c9cf3d"
+          }
+        },
+        {
+          "client_id": "929712640293-qjcl84oo6fhl253rpt1ne8je7ou8vjo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAr9lMgZbmaFRcwHSNlTKtatxaIsAKr5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929712640293-qjcl84oo6fhl253rpt1ne8je7ou8vjo5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "929712640293-93b2n5278hdefjurudam41mcn68sp1qg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vibes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
